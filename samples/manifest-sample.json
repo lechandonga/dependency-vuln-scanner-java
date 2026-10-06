@@ -1,0 +1,7 @@
+{
+  "packageType": "maven",
+  "dependencies": [
+    {"group": "org.example", "name": "logging-core", "version": "1.3.0"},
+    {"group": "org.example", "name": "web-ui", "version": "2.1.0"}
+  ]
+}

@@ -1,0 +1,3 @@
+id,type,group,name,affectedRange,fixedVersions,severity,cvss,priority,description
+CVE-2022-9001,maven,com.acme,json-util,"[2.0,2.4)",2.4,HIGH,7.8,,json-util 反序列化漏洞
+CVE-2022-9002,npm,,mini-fetch,">=1.0,<1.5;>=1.2,<1.5",1.5,MEDIUM,,,SSRF 风险
