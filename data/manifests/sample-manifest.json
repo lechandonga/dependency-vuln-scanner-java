@@ -1,0 +1,7 @@
+{
+  "ecosystem": "maven",
+  "dependencies": [
+    {"group": "org.apache.logging.log4j", "name": "log4j-core", "version": "2.14.1"},
+    {"group": "com.fasterxml.jackson.core", "name": "jackson-databind", "version": "2.9.10.7"}
+  ]
+}
